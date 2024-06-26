@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿//Здесь я показываю работту с базой C++, структурами ии алгоритмами
+#include <iostream>
 #include <vector>
 #include <algorithm>
 
